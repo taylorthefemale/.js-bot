@@ -37,4 +37,4 @@ client.on('message', message => {
 
 
 
-client.login('Nzc0MzUzMjA2MTg0MjQ3MzI4.X6Winw.xSjVtM9rd38BbIj7705FXhNC7pM');
+client.login('your bot token');
